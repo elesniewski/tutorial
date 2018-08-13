@@ -1,1 +1,2 @@
 This is an update to the file done by some other user.
+This is a newfeature update.
